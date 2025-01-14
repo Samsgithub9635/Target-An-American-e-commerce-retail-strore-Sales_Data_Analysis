@@ -39,7 +39,8 @@ The objective of this project was to analyze the provided data and uncover actio
 - <a href="https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv">Dataset</a>
 ## About Dataset
 Target is a globally recognized brand and a leading retailer in the United States, known for offering exceptional value, inspiration, innovation, and a unique shopping experience. This dataset focuses on Target's operations in Brazil, covering 100,000 orders placed between 2016 and 2018. It includes detailed information on order status, pricing, payment and shipping performance, customer locations, product attributes, and customer reviews.
-## Features
+## Files and Schema
+![image alt}(https://github.com/Samsgithub9635/Target-An-American-e-commerce-retail-strore-Sales_Data_Analysis_using_SQL_and_Python/blob/ed0d728f391b22130c222b2cf48449d327d5be95/dataset_schema.png)
 The data is available in 8 CSV files:
 - customers.csv
 - sellers.csv
@@ -48,8 +49,8 @@ The data is available in 8 CSV files:
 - payments.csv
 - orders.csv
 - products.csv
-![image alt}(https://github.com/Samsgithub9635/Target-An-American-e-commerce-retail-strore-Sales_Data_Analysis_using_SQL_and_Python/blob/ed0d728f391b22130c222b2cf48449d327d5be95/dataset_schema.png)
-# Potential Use Cases
+
+## Potential Use Cases
 Analyzing this dataset offers valuable insights into Target's Brazilian operations, revealing details about order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction. This comprehensive dataset is a valuable resource for understanding various business aspects and enhancing strategic decision-making.
 
 ## Project Workflow
@@ -65,7 +66,7 @@ Analyzing this dataset offers valuable insights into Target's Brazilian operatio
 -- Addressed specific business problem statements.
 -- Provided insights that improved decision-making and led to a 30.75% sales increase.
 
-# Results and Impact
+## Results and Impact
 - Provided detailed insights into sales trends, customer behavior, and revenue patterns.
 - Solved advanced business problem statements to assist stakeholders.
 - Enhanced decision-making, resulting in a 30.75% increase in sales.
