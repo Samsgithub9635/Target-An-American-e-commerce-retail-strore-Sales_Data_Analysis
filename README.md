@@ -48,6 +48,7 @@ The data is available in 8 CSV files:
 - payments.csv
 - orders.csv
 - products.csv
+![image alt}(https://github.com/Samsgithub9635/Target-An-American-e-commerce-retail-strore-Sales_Data_Analysis_using_SQL_and_Python/blob/ed0d728f391b22130c222b2cf48449d327d5be95/dataset_schema.png)
 # Potential Use Cases
 Analyzing this dataset offers valuable insights into Target's Brazilian operations, revealing details about order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction. This comprehensive dataset is a valuable resource for understanding various business aspects and enhancing strategic decision-making.
 
