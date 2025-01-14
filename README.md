@@ -35,11 +35,11 @@ The objective of this project was to analyze the provided data and uncover actio
 - Identify the top 3 customers who spent the most money in each year.
 
 
-## Dataset Details
+# Dataset Details
 - <a href="https://www.kaggle.com/datasets/devarajv88/target-dataset?select=products.csv">Dataset</a>
 ## About Dataset
 Target is a globally recognized brand and a leading retailer in the United States, known for offering exceptional value, inspiration, innovation, and a unique shopping experience. This dataset focuses on Target's operations in Brazil, covering 100,000 orders placed between 2016 and 2018. It includes detailed information on order status, pricing, payment and shipping performance, customer locations, product attributes, and customer reviews.
-## Files and Schema
+## Files 
 The data is available in 8 CSV files:
 - customers.csv
 - sellers.csv
@@ -48,6 +48,8 @@ The data is available in 8 CSV files:
 - payments.csv
 - orders.csv
 - products.csv
+
+## Schema
 ![dataset_schema](https://github.com/user-attachments/assets/084cf969-fcce-41f6-a07f-5816feabf38b)
 
 ## Potential Use Cases
