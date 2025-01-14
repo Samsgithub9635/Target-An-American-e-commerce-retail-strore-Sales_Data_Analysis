@@ -40,7 +40,6 @@ The objective of this project was to analyze the provided data and uncover actio
 ## About Dataset
 Target is a globally recognized brand and a leading retailer in the United States, known for offering exceptional value, inspiration, innovation, and a unique shopping experience. This dataset focuses on Target's operations in Brazil, covering 100,000 orders placed between 2016 and 2018. It includes detailed information on order status, pricing, payment and shipping performance, customer locations, product attributes, and customer reviews.
 ## Files and Schema
-![image alt}(https://github.com/Samsgithub9635/Target-An-American-e-commerce-retail-strore-Sales_Data_Analysis_using_SQL_and_Python/blob/ed0d728f391b22130c222b2cf48449d327d5be95/dataset_schema.png)
 The data is available in 8 CSV files:
 - customers.csv
 - sellers.csv
@@ -49,6 +48,7 @@ The data is available in 8 CSV files:
 - payments.csv
 - orders.csv
 - products.csv
+![dataset_schema](https://github.com/user-attachments/assets/084cf969-fcce-41f6-a07f-5816feabf38b)
 
 ## Potential Use Cases
 Analyzing this dataset offers valuable insights into Target's Brazilian operations, revealing details about order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction. This comprehensive dataset is a valuable resource for understanding various business aspects and enhancing strategic decision-making.
