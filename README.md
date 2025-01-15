@@ -1,4 +1,4 @@
-# Target Corporation E-Commerce Data Analysis
+# Target Corporation E-Commerce Sales Data Analysis
 Data Analytics Project on Target's E-Commerce Sales: Conducted EDA and data visualization using Kaggle-sourced data. Solved business problems with SQL queries (via Python) and provided actionable insights that led to a 30.75% sales increase
 
 ## Introduction
