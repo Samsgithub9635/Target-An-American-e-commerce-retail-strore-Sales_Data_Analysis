@@ -1,4 +1,4 @@
-# Target Corporation E-Commerce Sales Data Analysis
+# An American e-commerce retail strore Sales and Revenue Data Analysis using MySQL and Python in Jupyter Notebook
 Data Analytics Project on Target's E-Commerce Sales: Conducted EDA and data visualization using Kaggle-sourced data. Solved business problems with SQL queries (via Python) and provided actionable insights that led to a 30.75% sales increase
 
 ## Introduction
