@@ -97,15 +97,19 @@ Analyzing this dataset offers valuable insights into Target's Brazilian operatio
 
 ## 📸 Screenshots
 
-> Add your chart images in the `/images/` folder and reference them here.
 
-| Monthly Orders Trend | Revenue by Category | Avg Products per Order |
-|----------------------|---------------------|--------------------------|
-| ![Monthly Orders](images/monthly_orders.png) | ![Revenue Category](images/revenue_by_category.png) | ![Avg Products](images/avg_products_per_order.png) |
+| Top 5 category for sale | Customers per state | Orders per month 2018 || Avg order per city | Revenue per category | Top seller |Top 3 customers yearwise |
+|----------------------|---------------------|--------------------------||----------------------|---------------------|--------------------------||--------------------------|
+|----------------------|---------------------|--------------------------||----------------------|---------------------|--------------------------||--------------------------|
+| ![top 5 category for sale](images/top 5 category for sale.png) | ![customer per state bar chart](images/customer per state bar chart.png) | ![orders per month 2018](images/orders per month 2018.png) | ![avg order per city](images/avg order per city.png) | ![revenue per category](images/revenue per category.png) | ![top seller](images/top seller.png) | ![top 3 customers yearwise](images/top 3 customers yearwise.png) |
+
 
 ---
 
 ## 💻 How to Run This Project Locally
+
+### Check the pdf file: python+sql_ecommerce.pdf
+## or
 
 ### ✅ Prerequisites
 
