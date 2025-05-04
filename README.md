@@ -66,12 +66,12 @@ Analyzing this dataset offers valuable insights into Target's Brazilian operatio
 -- Created bar charts and other visualizations using Matplotlib and Seaborn to represent key insights.
 - Business Insights:
 -- Addressed specific business problem statements.
--- Provided insights that improved decision-making and led to a 30.75% sales increase.
+-- Provided insights that improved decision-making that can help increase in sales growth.
 
 ## Results and Impact
 - Provided detailed insights into sales trends, customer behavior, and revenue patterns.
 - Solved advanced business problem statements to assist stakeholders.
-- Enhanced decision-making, resulting in a 30.75% increase in sales.
+- Enhanced decision-making.
 
 ## 🧰 Tech Stack Used
 
@@ -124,7 +124,7 @@ Install the dependencies using pip:
 ### 🚀 Setup Guide
 Clone or download this repository.
 
-git clone https://github.com/yourusername/target-sales-analysis.git
+git clone https://github.com/Samsgithub9635/Target-Corporation-Sales-and-Revenue-Data-Analysis_MySQL_and_Python.git
 cd target-sales-analysis
 Start MySQL Server, and ensure default user/password or edit your credentials in the notebook.
 
@@ -142,7 +142,7 @@ Performs EDA and generates plots
 
 Check the /images folder for saved visualizations, or generate fresh ones by re-running notebook cells.
 
-🧠 Skills Demonstrated
+### 🧠 Skills Demonstrated
 Automated MySQL DB setup and data import
 
 Cursor-based SQL query execution
@@ -153,18 +153,18 @@ Visualization of trends and KPIs
 
 Data-driven business recommendations
 
-💡 Suggestions for Business
+### 💡 Suggestions for Business
 Launch targeted promotions in Sept–Dec to cover revenue gaps.
 
 Introduce loyalty or referral programs to improve 0% repeat purchase rate.
 
 Leverage insights on top categories and sellers to optimize inventory and marketing efforts.
 
-📬 Contact
+### 📬 Contact
 Feel free to reach out if you have questions or want to collaborate:
 
 Your Name
-GitHub | LinkedIn | Email
+GitHub:Samsgithub9635 | LinkedIn:https://www.linkedin.com/in/samrat-saha9635 | Email:samratsaha9635@gmail.com
 
 
 
