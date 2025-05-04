@@ -95,7 +95,7 @@ Analyzing this dataset offers valuable insights into Target's Brazilian operatio
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots -> please check the images folder if the images are not visible below
 ![avg order per city](images/avg order per city.png)
 ![Count of customer per state]([https://github.com/user-attachments/assets/084cf969-fcce-41f6-a07f-5816feabf38b](https://github.com/Samsgithub9635/Target-Corporation-Sales-and-Revenue-Data-Analysis_MySQL_and_Python/blob/3be192159312f0c2381554b2e1ef7ffc37332d04/images/customer%20per%20state%20bar%20chart.png))
 ![order per month]((https://github.com/Samsgithub9635/Target-Corporation-Sales-and-Revenue-Data-Analysis_MySQL_and_Python/blob/3be192159312f0c2381554b2e1ef7ffc37332d04/images/orders%20per%20month%202018.png))
