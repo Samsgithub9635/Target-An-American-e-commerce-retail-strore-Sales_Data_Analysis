@@ -78,7 +78,7 @@ Analyzing this dataset offers valuable insights into Target's Brazilian operatio
 - Python (Pandas, Matplotlib, Seaborn, PyMySQL)
 - MySQL (database setup and SQL queries)
 - Jupyter Notebook
-- CSV data files (10+)
+- CSV data files (7)
 - EDA and visualization
 
 ---
