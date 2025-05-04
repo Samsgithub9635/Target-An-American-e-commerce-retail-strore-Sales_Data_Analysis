@@ -96,13 +96,20 @@ Analyzing this dataset offers valuable insights into Target's Brazilian operatio
 ---
 
 ## 📸 Screenshots -> please check the images folder if the images are not visible below
-![avg order per city](images/avg order per city.png)
-![Count of customer per state]([https://github.com/user-attachments/assets/084cf969-fcce-41f6-a07f-5816feabf38b](https://github.com/Samsgithub9635/Target-Corporation-Sales-and-Revenue-Data-Analysis_MySQL_and_Python/blob/3be192159312f0c2381554b2e1ef7ffc37332d04/images/customer%20per%20state%20bar%20chart.png))
-![order per month]((https://github.com/Samsgithub9635/Target-Corporation-Sales-and-Revenue-Data-Analysis_MySQL_and_Python/blob/3be192159312f0c2381554b2e1ef7ffc37332d04/images/orders%20per%20month%202018.png))
-![revenue per category]([https://github.com/user-attachments/assets/084cf969-fcce-41f6-a07f-5816feabf38b](https://github.com/Samsgithub9635/Target-Corporation-Sales-and-Revenue-Data-Analysis_MySQL_and_Python/blob/3be192159312f0c2381554b2e1ef7ffc37332d04/images/revenue%20per%20category.png))
-![top sellers]([https://github.com/user-attachments/assets/084cf969-fcce-41f6-a07f-5816feabf38b](https://github.com/Samsgithub9635/Target-Corporation-Sales-and-Revenue-Data-Analysis_MySQL_and_Python/blob/3be192159312f0c2381554b2e1ef7ffc37332d04/images/top%20seller.png))
-![top 5 category]([https://github.com/user-attachments/assets/084cf969-fcce-41f6-a07f-5816feabf38b](https://github.com/Samsgithub9635/Target-Corporation-Sales-and-Revenue-Data-Analysis_MySQL_and_Python/blob/3be192159312f0c2381554b2e1ef7ffc37332d04/images/top%205%20category%20for%20sale.png))
-![top 3 customers]([https://github.com/user-attachments/assets/084cf969-fcce-41f6-a07f-5816feabf38b](https://github.com/Samsgithub9635/Target-Corporation-Sales-and-Revenue-Data-Analysis_MySQL_and_Python/blob/3be192159312f0c2381554b2e1ef7ffc37332d04/images/top%203%20customers%20yearwise.png))
+#### Avg order per city
+![avg order per city](https://github.com/Samsgithub9635/Target-Corporation-Sales-and-Revenue-Data-Analysis_MySQL_and_Python/blob/my-new-branch/avg%20order%20per%20city.png)
+#### Count of customer per state
+![Count of customer per state](https://github.com/Samsgithub9635/Target-Corporation-Sales-and-Revenue-Data-Analysis_MySQL_and_Python/blob/my-new-branch/customer%20per%20state%20bar%20chart.png)
+#### Order per month
+![order per month](https://github.com/Samsgithub9635/Target-Corporation-Sales-and-Revenue-Data-Analysis_MySQL_and_Python/blob/my-new-branch/orders%20per%20month%202018.png)
+#### Revenue per category
+![revenue per category](https://github.com/Samsgithub9635/Target-Corporation-Sales-and-Revenue-Data-Analysis_MySQL_and_Python/blob/my-new-branch/revenue%20per%20category.png)
+#### Top sellers
+![top sellers](https://github.com/Samsgithub9635/Target-Corporation-Sales-and-Revenue-Data-Analysis_MySQL_and_Python/blob/my-new-branch/top%20seller.png)
+#### Top 5 categories
+![top 5 category](https://github.com/Samsgithub9635/Target-Corporation-Sales-and-Revenue-Data-Analysis_MySQL_and_Python/blob/my-new-branch/top%205%20category%20for%20sale.png)
+#### Top 3 customers
+![top 3 customers](https://github.com/Samsgithub9635/Target-Corporation-Sales-and-Revenue-Data-Analysis_MySQL_and_Python/blob/my-new-branch/top%203%20customers%20yearwise.png)
 
 ---
 
