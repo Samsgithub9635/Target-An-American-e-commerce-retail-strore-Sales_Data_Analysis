@@ -1,8 +1,8 @@
 # An American e-commerce retail strore Sales and Revenue Data Analysis using MySQL and Python in Jupyter Notebook
-Data Analytics Project on Target's E-Commerce Sales: Conducted EDA and data visualization using Kaggle-sourced data. Solved business problems with SQL queries (via Python) and provided actionable insights that led to a 30.75% sales increase
+Data Analytics Project on Target's E-Commerce Sales: Conducted EDA and data visualization using Kaggle-sourced data. Solved business problems with SQL queries (via Python) and provided actionable insights.
 
 ## Introduction
-This project focuses on analyzing the sales, revenue, and customer data of an American e-commerce retail store, "Target," using a dataset obtained from Kaggle. The primary objective was to perform exploratory data analysis (EDA), generate insights using SQL and Python, and solve business problems to assist stakeholders in decision-making. The project resulted in a 30.75% increase in sales.
+This project focuses on analyzing the sales, revenue, and customer data of an American e-commerce retail store, "Target," using a dataset obtained from Kaggle. The primary objective was to perform exploratory data analysis (EDA), generate insights using SQL and Python, and solve business problems to assist stakeholders in decision-making. 
 
 ## Project Objective
 
@@ -72,3 +72,99 @@ Analyzing this dataset offers valuable insights into Target's Brazilian operatio
 - Provided detailed insights into sales trends, customer behavior, and revenue patterns.
 - Solved advanced business problem statements to assist stakeholders.
 - Enhanced decision-making, resulting in a 30.75% increase in sales.
+
+## 🧰 Tech Stack Used
+
+- Python (Pandas, Matplotlib, Seaborn, PyMySQL)
+- MySQL (database setup and SQL queries)
+- Jupyter Notebook
+- CSV data files (10+)
+- EDA and visualization
+
+---
+
+## 📝 Key Insights
+
+- 📌 **State SP** had the highest customer count.
+- 🗓️ **January** had the highest orders; **September and October** had low sales; **November and December** had **0 orders**.
+- 👤 **Top seller**: `7c67e1448b00f6e969d365cea6b010ab`.
+- 🏙️ **Padre Carvalho** had the highest average products per order (**7**), and **Curralinho** the lowest (**4**).
+- 📊 **BED TABLE BATH** contributed the highest revenue (**10.70%**), and **WATCHES PRESENT** the lowest (**8.93%**).
+- ❌ **0% of customers** returned to purchase within 6 months.
+- ✅ **Suggested** campaign focus for **September–December** and **customer retention strategies**.
+
+---
+
+## 📸 Screenshots
+
+> Add your chart images in the `/images/` folder and reference them here.
+
+| Monthly Orders Trend | Revenue by Category | Avg Products per Order |
+|----------------------|---------------------|--------------------------|
+| ![Monthly Orders](images/monthly_orders.png) | ![Revenue Category](images/revenue_by_category.png) | ![Avg Products](images/avg_products_per_order.png) |
+
+---
+
+## 💻 How to Run This Project Locally
+
+### ✅ Prerequisites
+
+Make sure the following are installed:
+
+- [Python 3.8+](https://www.python.org/downloads/)
+- [Jupyter Notebook](https://jupyter.org/install)
+- [MySQL Server](https://dev.mysql.com/downloads/installer/)
+- [MySQL Workbench (Optional)](https://dev.mysql.com/downloads/workbench/)
+
+### 📦 Required Python Libraries
+
+Install the dependencies using pip:
+-pip install pandas matplotlib seaborn pymysql jupyter
+
+### 🚀 Setup Guide
+Clone or download this repository.
+
+git clone https://github.com/yourusername/target-sales-analysis.git
+cd target-sales-analysis
+Start MySQL Server, and ensure default user/password or edit your credentials in the notebook.
+
+Launch Jupyter Notebook
+
+Open target_sales_analysis.ipynb and run all cells step by step:
+
+Automatically creates MySQL database
+
+Imports CSV files into MySQL
+
+Executes cursor-based SQL queries
+
+Performs EDA and generates plots
+
+Check the /images folder for saved visualizations, or generate fresh ones by re-running notebook cells.
+
+🧠 Skills Demonstrated
+Automated MySQL DB setup and data import
+
+Cursor-based SQL query execution
+
+EDA using Python (Pandas, Seaborn, Matplotlib)
+
+Visualization of trends and KPIs
+
+Data-driven business recommendations
+
+💡 Suggestions for Business
+Launch targeted promotions in Sept–Dec to cover revenue gaps.
+
+Introduce loyalty or referral programs to improve 0% repeat purchase rate.
+
+Leverage insights on top categories and sellers to optimize inventory and marketing efforts.
+
+📬 Contact
+Feel free to reach out if you have questions or want to collaborate:
+
+Your Name
+GitHub | LinkedIn | Email
+
+
+
